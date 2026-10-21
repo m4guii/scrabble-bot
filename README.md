@@ -16,3 +16,4 @@ This is a terminal-based Scrabble game, where you can play against a bot. The ga
 `python3 main.py`
 
 #### Grade: 19.0 / 20.0
+Nota: inclui ambos subprojetos e teste prático
